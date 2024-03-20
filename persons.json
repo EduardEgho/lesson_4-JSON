@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Jason Statham",
+    "age": 56,
+    "photo": "https://avatars.dzeninfra.ru/get-zen-logos/1640044/pubsuite_23817bce-7f03-4dcd-9bce-871c9ac66289_64883c734e841618a8e51025/orig"
+  },
+  {
+    "name": "Dwayne Johnson",
+    "age": 51,
+    "photo": "https://content.api.news/v3/images/bin/a05ae9b9d13a0df4cfcfc83f3ea52803"
+  },
+  {
+    "name": "Mark Wahlberg",
+    "age": 52,
+    "photo": "https://st.peopletalk.ru/wp-content/uploads/2021/05/617e57ae-5bd3-444b-b7f9-cee3b094d4e2.jpeg"
+  },
+  {
+    "name": "Keanu Reeves",
+    "age": 59,
+    "photo": "https://u.kanobu.ru/editor/images/3/30436db6-fbb2-4e60-85bb-a2396317ed4c.webp"
+  }
+]
